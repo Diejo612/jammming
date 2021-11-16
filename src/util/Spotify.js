@@ -1,5 +1,5 @@
 const clientId = 'af4d6a9895044123a41dcb862b250bf8';
-const redirectUri = 'http://jammming-app-jeanpier.surge.shnp';
+const redirectUri = 'http://jammming-jeanpier.surge.sh';
 let accessToken;
 
 const Spotify = {
